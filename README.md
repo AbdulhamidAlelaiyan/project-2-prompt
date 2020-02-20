@@ -70,7 +70,7 @@ Select a Project Idea of your own. But the user must be able to:
 
 ## Necessary Deliverables
 
-Projects are due on **Thursday, Nov 7 at 9 AM!**
+Projects are due on **Thursday, Feb 27 at 9 AM!**
 
 Submissions will be submitted by posting into Google Sheet
 
